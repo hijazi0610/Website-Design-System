@@ -1,0 +1,102 @@
+body {
+    background-color: #FBDBC1;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Short-stack', cursive;
+}
+
+.nav {
+    text-align: center;
+}
+
+.nav li{
+    display: inline-block;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 150px;
+    margin: 5px;
+    text-align: center;
+    color: chocolate;
+    border: 1px solid #F8C296;
+}
+
+.container {
+    border: 1px solid black;
+    margin: 5px;
+    background-color: #2C365E;
+    color: #F8C296;
+    text-align: center;
+}
+
+.cool-orange {
+    background-color: #FBDBC1;
+}
+
+.smooth-orange {
+    background-color: #F8C296;
+}
+
+.deep-sea-blue {
+    background-color: #2C365E;
+}
+
+.sunset-orange {
+    background-color: #F4A15D;
+}
+
+.font-panel {
+    display: inline-block;
+    margin: 7px;
+    border: 1px solid #F8C296;
+    padding: 10px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.short-stack {
+    font-family: 'Short Stack', cursive;
+}
+
+.varela-round {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.text-panel {
+    display: inline-block;
+    border: 1px solid #F8C296;
+    margin: 7px;
+    padding: 10px;
+}
+
+.color-panel, .text-panel, h2 {
+    font-family: 'Short-stack', cursive;
+}
+
+.footer {
+    font-family: 'Short-stack', cursive;
+    text-align: center;
+    color: #F8C296;
+    background-color: #2C365E;
+}
